@@ -64,4 +64,4 @@ RFC-2049 MIME Part 5: Conformance Criteria and Examples
       }
   }
 ```
-
+拖拽事件中的QMimeData可以在qt的帮助手册中查看
